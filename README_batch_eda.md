@@ -36,8 +36,8 @@ Para el resumen de producción anual, los nombres de las columnas deben quedar n
 ## Instrucciones de ejecución
 
 1. Descargar el archivo.
-2. Copiar el archivo de datos y nómbralo `datos.csv`, si todavía no tiene ese nombre.
-3. Abre una terminal en el directorio que contiene `batch_eda.py` y `datos.csv`.
+2. Copiar el archivo de datos y se nombra como `datos.csv`, si todavía no tiene ese nombre.
+3. Abrir una terminal en el directorio que contiene `batch_eda.py` y `datos.csv`.
 4. Verificar que Spark esté disponible:
 
    ```bash
